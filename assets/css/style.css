@@ -1,5 +1,5 @@
 body {
-  font-family: "Lexend", sans-serif;
+  font-family: "Lexend", sans-serif !important;
   max-w-screen-xl mx-auto
   padding: 16px;
 }

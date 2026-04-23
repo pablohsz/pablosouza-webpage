@@ -1,7 +1,8 @@
 title: Pablo Souza
 description: Blog pessoal
-baseurl: "https://pablohsz.github.io/"
-url: "/pablosouza-webpage"
+baseurl: "/pablosouza-webpage"
+url: "https://pablohsz.github.io/"
+
 
 markdown: kramdown
 permalink: /:title/
